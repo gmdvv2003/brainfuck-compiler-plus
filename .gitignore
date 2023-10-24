@@ -1,0 +1,13 @@
+/*
+
+!.gitignore
+!README.md
+
+# Go files
+!**.mod
+!**.go
+
+# Go packages
+!compiler/
+!lexer/
+!parser/
